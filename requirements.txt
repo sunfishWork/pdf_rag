@@ -2,7 +2,9 @@ faiss~=1.9.0
 numpy~=1.26.4
 langchain~=0.3.23
 pdfminer_six==20250327
-sentence-transformers==2.2.2
+sentence-transformers~=2.6.1
 langchain-community~=0.3.21
 transformers>=4.37.0
 huggingface_hub==0.14.1
+pdfminer~=20191125
+pdfminer-six~=20250327
